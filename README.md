@@ -1,0 +1,2 @@
+# tinacmstest
+test for tinacms
